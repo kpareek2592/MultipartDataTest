@@ -1,0 +1,17 @@
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\bin\Debug\net6.0\MultipartDataTest.exe
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\bin\Debug\net6.0\MultipartDataTest.deps.json
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\bin\Debug\net6.0\MultipartDataTest.runtimeconfig.json
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\bin\Debug\net6.0\MultipartDataTest.dll
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\bin\Debug\net6.0\MultipartDataTest.pdb
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\obj\Debug\net6.0\MultipartDataTest.csproj.AssemblyReference.cache
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\obj\Debug\net6.0\MultipartDataTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\obj\Debug\net6.0\MultipartDataTest.AssemblyInfoInputs.cache
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\obj\Debug\net6.0\MultipartDataTest.AssemblyInfo.cs
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\obj\Debug\net6.0\MultipartDataTest.csproj.CoreCompileInputs.cache
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\obj\Debug\net6.0\MultipartDataTest.csproj.CopyComplete
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\obj\Debug\net6.0\MultipartDataTest.dll
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\obj\Debug\net6.0\refint\MultipartDataTest.dll
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\obj\Debug\net6.0\MultipartDataTest.pdb
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\obj\Debug\net6.0\MultipartDataTest.genruntimeconfig.cache
+C:\Users\Global\source\repos\MultipartDataTest\MultipartDataTest\obj\Debug\net6.0\ref\MultipartDataTest.dll

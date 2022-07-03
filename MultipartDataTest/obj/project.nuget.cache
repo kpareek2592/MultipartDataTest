@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNl3fW6lItKmZab+esCm6s/CgJNduMFEmRXZlFuepsRJ4BqtTxru+mblvNljbVptfmnvvsSKOyJblFtzMJqbrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Global\\source\\repos\\MultipartDataTest\\MultipartDataTest\\MultipartDataTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Global\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
